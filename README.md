@@ -3,9 +3,12 @@
 ## **BIODATA SINGKAT**
 
 Nama : Rahmat Fathoni
+
 Tempat/tanggal lahir : Palembang, 4 Juni 1994
+
 Alamat : Bekasi 
-Motto Hidup : Gak ada, ganti terus tiap ditanya motto hidupnya apa
+
+Motto Hidup : Gak ada, ganti terus tiap ditanya motto hidupnya
 
 ### *Tujuan mengikuti Hacktiv8*
 
